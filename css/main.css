@@ -6,13 +6,13 @@
 }
 
 .fontNavBar > li {
-  margin-right: 10%;
+  margin-right: 5%;
   list-style: none;
 }
 
 .searchBar {
     overflow: hidden;
-    background-color: ##BDBDBD;
+    background-color: #BDBDBD;
     width: 80%;
     height: 30px;
     margin-top: 30px;
